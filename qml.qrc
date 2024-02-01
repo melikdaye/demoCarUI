@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ui/gauges/SpeedGauge.qml</file>
+        <file>ui/fonts/Kanit-Regular.ttf</file>
+        <file>ui/gauges/RpmGauge.qml</file>
+    </qresource>
+</RCC>
